@@ -1,0 +1,11 @@
+insert into person(firstName, lastName, accountBalance) values ('Santiago', 'Balcero', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Doro', 'Pesch', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Bobby', 'Brown', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Curt', 'Cobain', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Nina', 'Hagen', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Jimmi', 'Henrix', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Janis', 'Joplin', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Joe', 'Cocker', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Alice', 'Cooper', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Bruce', 'Springsteen', 500000);
+insert into person(firstName, lastName, accountBalance) values ('Eric', 'Clapton', 500000);
